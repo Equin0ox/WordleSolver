@@ -1,0 +1,15 @@
+C:\Users\sebik\source\repos\WordleHelper\WordleHelper\bin\Debug\net6.0\WordleHelper.exe
+C:\Users\sebik\source\repos\WordleHelper\WordleHelper\bin\Debug\net6.0\WordleHelper.deps.json
+C:\Users\sebik\source\repos\WordleHelper\WordleHelper\bin\Debug\net6.0\WordleHelper.runtimeconfig.json
+C:\Users\sebik\source\repos\WordleHelper\WordleHelper\bin\Debug\net6.0\WordleHelper.dll
+C:\Users\sebik\source\repos\WordleHelper\WordleHelper\bin\Debug\net6.0\WordleHelper.pdb
+C:\Users\sebik\source\repos\WordleHelper\WordleHelper\obj\Debug\net6.0\WordleHelper.csproj.AssemblyReference.cache
+C:\Users\sebik\source\repos\WordleHelper\WordleHelper\obj\Debug\net6.0\WordleHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebik\source\repos\WordleHelper\WordleHelper\obj\Debug\net6.0\WordleHelper.AssemblyInfoInputs.cache
+C:\Users\sebik\source\repos\WordleHelper\WordleHelper\obj\Debug\net6.0\WordleHelper.AssemblyInfo.cs
+C:\Users\sebik\source\repos\WordleHelper\WordleHelper\obj\Debug\net6.0\WordleHelper.csproj.CoreCompileInputs.cache
+C:\Users\sebik\source\repos\WordleHelper\WordleHelper\obj\Debug\net6.0\WordleHelper.dll
+C:\Users\sebik\source\repos\WordleHelper\WordleHelper\obj\Debug\net6.0\refint\WordleHelper.dll
+C:\Users\sebik\source\repos\WordleHelper\WordleHelper\obj\Debug\net6.0\WordleHelper.pdb
+C:\Users\sebik\source\repos\WordleHelper\WordleHelper\obj\Debug\net6.0\WordleHelper.genruntimeconfig.cache
+C:\Users\sebik\source\repos\WordleHelper\WordleHelper\obj\Debug\net6.0\ref\WordleHelper.dll
